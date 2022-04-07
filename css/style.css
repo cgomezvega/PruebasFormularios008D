@@ -1,0 +1,22 @@
+.left_label {
+    width: 150px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.radio_sexo {
+    margin-right: 10px;
+}
+
+#rut {
+    width: 120px;
+}
+
+#nombres, #apellidos, #correo {
+    width: 310px;
+}
+
+#edad {
+    width: 60px;
+}
+
